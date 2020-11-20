@@ -1,6 +1,6 @@
 # Welcome to My Repo. for GANs Specialization by *DeepLearning.ai* 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### In this course I've learned all about GANs, how to build it from scratch and how to enhance it.
+### In this course I've learned all about GANs, how to build them from scratch and how to enhance enhance them.
 ### I've learned all about the techniques that's used in Advanced Generative Models , like:
 	* Generator, Discriminator tradeoff 
 	* Generative loss, metrics
